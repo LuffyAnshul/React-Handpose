@@ -5090,6 +5090,11 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+fingerpose@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/fingerpose/-/fingerpose-0.0.2.tgz#68d82bef99bfd90db506128870ad8dbfc38a3656"
+  integrity sha512-KNFly+Qc8B8fumdzoP6PhEY/UHodzjXmyo5+0ZsbNs0F+X2Mn4iiErcofnGONwwtcDuL2pvCC8bCwI9u1qPLDw==
+
 flat-cache@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-3.0.4.tgz#61b0338302b2fe9f957dcc32fc2a87f1c3048b11"
